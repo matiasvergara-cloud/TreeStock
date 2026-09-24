@@ -30,9 +30,9 @@ Esto evita usar bucles `while` y refleja naturalmente la estructura jerárquica 
 3. Ejecutar: `java Main`
 
 ## 📸 Capturas de Pantalla
-*![Menu Principal](image-1.png)*
-*![Inventario Ordenado](image-2.png)*
-*![Busqueda del producto](image-3.png)*
+![Menu Principal](image-1.png)
+![Inventario Ordenado](image-2.png)
+![Busqueda del producto](image-3.png)
 
 ## 🎥 Video de Sustentación
 [Enlace al video aquí]
